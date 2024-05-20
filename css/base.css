@@ -21,7 +21,7 @@
 
 @font-face {
 	font-family: 'Merriweather';
-	src: url('FaithFactorMedia/fonts/Merriweather-Light.ttf'), url('FaithFactorMedia/fonts/Merriweather-Light.ttf') format('truetype');
+	src: url('/FaithFactorMedia/fonts/Merriweather-Light.ttf'), url('/FaithFactorMedia/fonts/Merriweather-Light.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
   }
