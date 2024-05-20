@@ -1,2 +1,2 @@
-# FaithFactorMedia
+# Faith Factor Media
  
